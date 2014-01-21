@@ -1,0 +1,9 @@
+{
+  "name": "NodeChat",
+  "version": "0.1.0",
+  "description": "Very minimal chat server in Node based on tutorial from Node.js In Action book",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
